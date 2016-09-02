@@ -2,12 +2,14 @@ body {
 	background-color: #ccf5f5;
 	width: 100%;
 }
+audio{
+	display: none;
+}
 
 #gameholder {
 	width: 100%;
 	margin:0 auto 0 auto;
 }
-
 #title {
 	width: 100%;
 	height: 150px;
